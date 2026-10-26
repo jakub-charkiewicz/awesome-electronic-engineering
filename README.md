@@ -146,6 +146,7 @@ videos where he replies to any question fro .
 - [XOD Visual Programming Arduino](https://www.youtube.com/watch?v=qxjLH_3US04&feature=youtu.be) - Program Arduino in a very particular way through visual blocks.
 - [Electronics Weekly](https://www.electronicsweekly.com/) - Electronics Weekly is a good resource for those looking for industry-related news. There are topics in business, design, products, and so much more which are all directly related to electrical engineering. You can also use it to view available jobs or post jobs yourself.
 - [OminiPCB Engineering Tools](https://ominipcb.com/engineering-tools) - Online PCB engineering calculators and tools for trace width, impedance, stack-up, vias, cost, weight, panelization, and manufacturing calculations.
+- [Cable Capacitance Calculator](https://theaudiostuff.com/tools/cable-capacitance-calculator/) - Free online calculator for the treble roll-off that cable capacitance causes in line-level runs, phono cartridge loading and MC step-up transformers.
 
 ## Contribute ##
 
